@@ -3,7 +3,16 @@
     <color name="colorPrimary">#1C3B5C</color>
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="background">#009999</color>
+    <color name="login_background">#009999</color>
+    <color name="bnt_login">#1C3B5C</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="lbl_name">#333333</color>
     <color name="white">#ffffff</color>
-    <color name="login">#1C3B5C</color>
 </resources>
