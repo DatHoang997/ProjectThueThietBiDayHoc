@@ -6,14 +6,13 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background= "@color/background">
+        android:background= "@color/login_background">
 
         <LinearLayout
             android:layout_above="@id/linearlayout2"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:gravity="center"
-            >
+            android:gravity="center">
             <ImageView
                 android:src="@drawable/icon"
                 android:layout_width="wrap_content"
@@ -61,7 +60,7 @@
             </LinearLayout>
             <Button
                 android:id="@+id/bntlogin"
-                android:background="@color/login"
+                android:background="@color/bnt_login"
                 android:textColor="@color/white"
                 android:text="@string/login"
                 android:textSize="28dp"
