@@ -1,0 +1,11 @@
+<resources>
+        <string name="app_name">Nhom8</string>
+        <string name="forgot_pass">Forgot Password</string>
+        <string name="login">Login</string>
+        <string name="pass_word">Password</string>
+        <string name="user_name">Username</string>
+        <string name="sign_up">Sign up for free</string>
+        <string name="ghi_nho">Ghi nhớ mật khẩu</string>
+        <string name="user">User</string>
+        <string name="dk">DANG KY THANH VIEN</string>
+</resources>
