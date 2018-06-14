@@ -20,4 +20,11 @@
         <string name="welcome">Welcome</string>
         <string name="btn_logout">LOGOUT</string>
         <string name="name">Fullname</string>
+        <string name="register">Form Dang Ky</string>
+        <string name="ten_sp">Ten San Pham</string>
+        <string name="mo_ta">mo ta san pham</string>
+        <string name="chi_tiet_sp">Chi Tiet San Pham</string>
+        <string name="ngay_tra">Ngay tra</string>
+        <string name="dia_chi">Dia chi</string>
+        <string name="thue">Thue</string>
 </resources>
